@@ -1,4 +1,4 @@
-# hope
+# Hopeful Chat
 
 This is just some random bullshit in an HTML file because I wanted to try out Transformer.js's capabilities. Specifically, I wanted to try to see how I could load an LLM model directly in the user's browser and run it using their GPU.
 
